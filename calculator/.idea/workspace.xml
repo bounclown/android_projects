@@ -20,36 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b9ebeca-9e0c-45af-a793-a5b7d89660a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../1laba/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/1laba.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1laba/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/3laba.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/src/Movable.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/src/driver.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3laba/src/human.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/laba_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba_2/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/calculator/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_mai.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,20 +69,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/nikit/android_projects/calculator",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.language.and.region"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="calculator.app" />
